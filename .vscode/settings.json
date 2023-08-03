@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+<<<<<<< HEAD
+        "memory": "cpp",
+        "sstream": "cpp"
+=======
+        "__bit_reference": "cpp",
+        "__string": "cpp",
+        "deque": "cpp",
+        "ios": "cpp",
+        "algorithm": "cpp",
+        "type_traits": "cpp"
+>>>>>>> b47ec71b5602d5db710a9a7c1fac463bc4b9952f
+    }
+}
